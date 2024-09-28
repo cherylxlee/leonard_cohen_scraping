@@ -26,13 +26,85 @@ This script gathers information about Leonard Cohen’s albums and songs from [T
   ```bash
   python lyrics.py -a
   ```
+  Example output:
+  ```bash
+  Cohen Live
+  Dear Heather
+  Death Of A Ladies' Man
+  Field Commander Cohen
+  I'm Your Man
+  ```
+
 - To get a list of songs:
   ```bash
   python lyrics.py -s
   ```
+  Example Output:
+  ```bash
+  A Bunch Of Lonesome Heros
+  A Singer Must Die
+  A Street
+  A Thousand Kisses Deep
+  Ain't No Cure For Love
+  Alexandra Leaving
+  ```
+  
 - To get the lyrics of a specific song:
   ```bash
   python lyrics.py -l "Suzanne"
+  ```
+  Example Output:
+  ```bash
+  Suzanne takes you down to her place near the river 
+  You can hear the boats go by 
+  You can spend the night beside her 
+  And you know that she's half crazy 
+  But that's why you want to be there 
+  And she feeds you tea and oranges 
+  That come all the way from China 
+  And just when you mean to tell her 
+  That you have no love to give her 
+  Then she gets you on her wavelength 
+  And she lets the river answer 
+  That you've always been her lover 
+  And you want to travel with her 
+  And you want to travel blind 
+  And you know that she will trust you 
+  For you've touched her perfect body with your mind. 
+  
+  And Jesus was a sailor 
+  When he walked upon the water 
+  And he spent a long time watching 
+  From his lonely wooden tower 
+  And when he knew for certain 
+  Only drowning men could see him 
+  He said "All men will be sailors then 
+  Until the sea shall free them" 
+  But he himself was broken 
+  Long before the sky would open 
+  Forsaken, almost human 
+  He sank beneath your wisdom like a stone 
+  And you want to travel with him 
+  And you want to travel blind 
+  And you think maybe you'll trust him 
+  For he's touched your perfect body with his mind. 
+  Now Suzanne takes your hand 
+  And she leads you to the river 
+  She is wearing rags and feathers 
+  From Salvation Army counters 
+  And the sun pours down like honey 
+  On our lady of the harbour 
+  And she shows you where to look 
+  Among the garbage and the flowers 
+  There are heroes in the seaweed 
+  There are children in the morning 
+  They are leaning out for love 
+  And they will lean that way forever 
+  While Suzanne holds the mirror 
+  And you want to travel with her 
+  And you want to travel blind 
+  And you know that you can trust her 
+  For she's touched your perfect body with her mind.
   ```
 
 #### Testing:
