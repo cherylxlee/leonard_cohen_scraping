@@ -1,4 +1,7 @@
 # Scraping with Beautiful Soup
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-blue)
+![Requests](https://img.shields.io/badge/Requests-brightgreen)
+![lxml](https://img.shields.io/badge/lxml-orange)
 
 ## Overview
 This project demonstrates the use of Python for web scraping using the `Beautiful Soup 4`, `Requests`, and `lxml` libraries. It focuses on extracting data from two different websites: a dataset catalog and a music archive. The project includes test cases to validate the functionality of the scraping scripts.
