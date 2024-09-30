@@ -11,7 +11,6 @@ This project demonstrates the use of Python for web scraping using the `Beautifu
 ### 1. Extracting Most Viewed Datasets
 This script scrapes the website [Data.gov Datasets](https://catalog.data.gov/dataset?q=&sort=views_recent+desc) to retrieve a list of the top 'n' most viewed datasets. If 'n' exceeds 20, the script scrapes across multiple pages to collect the required dataset URLs.
 
-#### Test Instructions:
 To verify the functionality of the dataset scraper, use:
 ```bash
 pytest test_most_used_dataset.py
@@ -110,7 +109,6 @@ This script gathers information about Leonard Cohen’s albums and songs from [T
   For she's touched your perfect body with her mind.
   ```
 
-#### Testing:
 To verify that the script works as expected, run:
 
 ```bash
